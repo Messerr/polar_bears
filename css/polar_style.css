@@ -18,7 +18,7 @@ body{
     background-color: #7DBDFF;
     height: 25px;
     top: 0;
-    
+
 
 
 }
@@ -51,6 +51,15 @@ a:link{
     color: black;
 }
 
+.textwrap1{
+    float: left;
+    width: 35%;
+}
+.textwrap2{
+    float: left;
+    width: 35%;
+    margin-left: 85px;
+}
 
 
 ul{
