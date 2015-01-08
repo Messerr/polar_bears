@@ -13,17 +13,35 @@ body{
 }
 
 
-
 .navbar{
     width: 100%;
     background-color: #7DBDFF;
-    text-align: center;
     height: 25px;
     top: 0;
 
 
 }
 
+#home{
+    padding-left: 150px;
+
+}
+
+#about{
+
+    padding-left: 150px;
+
+}
+
+#donate{
+    padding-left: 150px;
+
+}
+
+#contact{
+    padding-left: 150px;
+
+}
 a:hover{
     text-decoration: none;
 }
