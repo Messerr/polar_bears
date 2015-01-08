@@ -1,19 +1,48 @@
+body{
+    font-family: 'Convergence', sans-serif;
+
+}
+
+
+
 .wrapper{
-    width: 800px;
-    height: 900px;
-    border: solid black 2px;
+    width: 1000px;
+    height: 612px;
+    /*border: solid black 2px;*/
     margin:40px auto;
 }
 
 
-
 .navbar{
     width: 100%;
-    background-color: darkgray;
-    text-align: center;
+    background-color: #7DBDFF;
+    height: 25px;
+    top: 0;
+    
+
 
 }
 
+#home{
+    padding-left: 150px;
+
+}
+
+#about{
+
+    padding-left: 150px;
+
+}
+
+#donate{
+    padding-left: 150px;
+
+}
+
+#contact{
+    padding-left: 150px;
+
+}
 a:hover{
     text-decoration: none;
 }
@@ -31,4 +60,9 @@ ul{
 
 li{
     display: inline-block;
+}
+
+.home{
+
+
 }
