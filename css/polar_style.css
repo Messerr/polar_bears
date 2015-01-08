@@ -1,0 +1,34 @@
+.wrapper{
+    width: 800px;
+    height: 900px;
+    border: solid black 2px;
+    margin:40px auto;
+}
+
+
+
+.navbar{
+    width: 100%;
+    background-color: darkgray;
+    text-align: center;
+
+}
+
+a:hover{
+    text-decoration: none;
+}
+a:link{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+ul{
+    list-style: none;
+    
+}
+
+li{
+    display: inline-block;
+}
