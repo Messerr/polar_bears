@@ -16,9 +16,8 @@ body{
 .navbar{
     width: 100%;
     background-color: #7DBDFF;
-    height: 25px;
-    top: 0;
     margin-bottom: 10px;
+    border: solid black 2px;
 }
 
 .banner{
