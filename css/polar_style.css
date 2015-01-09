@@ -1,9 +1,8 @@
+/**********GENERAL********/
+
 body{
     font-family: 'Lato', sans-serif;
-
 }
-
-
 
 .wrapper{
     width: 1000px;
@@ -12,68 +11,31 @@ body{
     margin:40px auto;
 }
 
+/**********NAVBAR**********/
 
 .navbar{
     width: 100%;
     background-color: #7DBDFF;
     height: 25px;
     top: 0;
-
-
-
+    margin-bottom: 10px;
 }
-
-
 
 .banner{
     height: 299px;
     width: 1000px;
     margin-left: 130px;
     margin-top: 45px;
-
 }
 
-
-
-#home{
-    padding-left: 150px;
-
-}
-
-#about{
-
-    padding-left: 150px;
-
-}
-
-#donate{
-    padding-left: 150px;
-
-}
-
-#contact{
-    padding-left: 150px;
-
-}
 a:hover{
     text-decoration: none;
 }
+
 a:link{
     text-decoration: none;
     color: black;
 }
-
-.textwrap1{
-    float: left;
-    width: 35%;
-}
-.textwrap2{
-    float: left;
-    width: 35%;
-    margin-left: 85px;
-    margin-right: 35px;
-}
-
 
 ul{
     list-style: none;
@@ -84,13 +46,52 @@ li{
     display: inline-block;
 }
 
+/***********HOME PAGE************/
+
+#home{
+    padding-left: 150px;
+}
+
+/************DONATE PAGE*********/
+
+#donate{
+    padding-left: 150px;
+}
+
+/************CONTACT PAGE********/
+
+#contact{
+    padding-left: 150px;
+}
+
 .secondary{
 
     padding-bottom: 15px;
 }
 
-footer{
+/************INFO PAGE***********/
 
-    height: 25px;
-    background-color: ##7DBDFF;
+.textwrap1{
+    float: left;
+    width: 35%;
+}
+
+.textwrap2{
+    float: left;
+    width: 35%;
+    margin-left: 85px;
+    margin-right: 35px;
+}
+
+#about{
+    padding-left: 150px;
+}
+
+
+/***********FOOTER***********/
+
+.end{
+    text-align: center;
+    clear: both;
+    margin-top: 20px;
 }
