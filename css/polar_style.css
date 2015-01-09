@@ -1,5 +1,5 @@
 body{
-    font-family: 'Convergence', sans-serif;
+    font-family: 'Lato', sans-serif;
 
 }
 
@@ -71,6 +71,7 @@ a:link{
     float: left;
     width: 35%;
     margin-left: 85px;
+    margin-right: 35px;
 }
 
 
@@ -83,7 +84,13 @@ li{
     display: inline-block;
 }
 
-.home{
+.secondary{
 
+    padding-bottom: 15px;
+}
 
+footer{
+
+    height: 25px;
+    background-color: ##7DBDFF;
 }
